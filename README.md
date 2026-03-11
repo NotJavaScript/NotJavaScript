@@ -15,18 +15,23 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
+  
   BackEnd
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 </p>
 
 ---
 
 ### 💻 Sobre mí
 
-Desarrollador apasionado por la informática y el aprendizaje continuo. Me especializo en la **programación de sistemas** y el **desarrollo de videojuegos**, siempre buscando crear código mantenible y con un diseño sólido.
+Desarrollador apasionado por la informática y el aprendizaje continuo. Me especializo en la **programación de sistemas**, el **desarrollo y la creación de aplicaciones** y algún dia al **desarrollo de videojuegos**, siempre buscando crear código mantenible y con un diseño sólido.
 
 - 🧘 **Perfil:** Tranquilo e introvertido; enfocado en la constancia y el trabajo detallado.
 - 🎯 **Meta:** Fortalecer mis bases en algoritmos, buenas prácticas y arquitectura de software.

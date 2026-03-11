@@ -58,5 +58,13 @@ Desarrollador apasionado por la informática y el aprendizaje continuo. Me espec
 
 ---
 
+### 📈 Mi Actividad en GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotJavaScript&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotJavaScript&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
 
 _📌 Este perfil está en constante evolución, al igual que mi código._
